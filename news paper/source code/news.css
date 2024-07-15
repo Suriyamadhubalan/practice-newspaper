@@ -1,0 +1,23 @@
+.heading{
+    font-size: 75px;
+    border-bottom: 2px solid;
+    text-align: center;
+    padding: 10px;
+    border-top: 2px solid;
+}
+.body{
+    border-top: 5px solid;
+    margin-top: 2px;
+    height: auto;
+    margin: 5px;
+}
+.first{
+    text-align: justify;
+    display: inline-block;
+    width: 31%;
+    padding: 5px;
+    vertical-align:top;
+}
+.first img{
+    width: 100%;
+}
